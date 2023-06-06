@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P07_DemoDynamicListViewColourList</string>
+    <string name="colourInput">Enter new colour</string>
+    <string name="btnAddColour">ADD NEW COLOUR</string>
+    <string name="posInput">Enter position number</string>
+    <string name="btnRemoveColour">REMOVE A COLOUR</string>
+    <string name="btnUpdateColour">UPDATE A COLOUR</string>
+</resources>
